@@ -5,18 +5,18 @@
     "icon": "https://static.annangela.cn/favicon.ico",
     "slug": "ann-angela-cn",
     "status": "up",
-    "uptime": "97.87%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.87%",
-    "time": 963,
-    "timeDay": 1054,
-    "timeWeek": 971,
-    "timeMonth": 948,
-    "timeYear": 963,
+    "uptime": "97.85%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "97.85%",
+    "time": 965,
+    "timeDay": 1194,
+    "timeWeek": 989,
+    "timeMonth": 960,
+    "timeYear": 965,
     "dailyMinutesDown": {
-      "2021-12-17": 54,
+      "2021-12-17": 45,
       "2021-12-16": 47,
       "2021-12-15": 21,
       "2021-12-14": 45,
@@ -61,7 +61,7 @@
       "2021-10-22": 132,
       "2021-10-21": 167,
       "2021-10-20": 79,
-      "2021-10-19": 72
+      "2021-10-19": 96
     }
   }
 ]
