@@ -4,18 +4,19 @@
     "url": "https://ping.annangela.cn",
     "icon": "https://static.annangela.cn/favicon.ico",
     "slug": "ann-angela-cn",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "98.62%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 979,
     "timeDay": 819,
     "timeWeek": 936,
     "timeMonth": 939,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2022-05-18": 0,
       "2022-05-17": 20,
       "2022-05-13": 25,
       "2022-04-01": 62,
@@ -52,7 +53,7 @@
       "2022-01-21": 126,
       "2022-01-20": 174,
       "2022-01-19": 113,
-      "2022-01-18": 71
+      "2022-01-18": 48
     }
   }
 ]
