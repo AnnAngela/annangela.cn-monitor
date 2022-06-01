@@ -6,17 +6,17 @@
     "slug": "ann-angela-cn",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "96.32%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.23%",
     "time": 979,
-    "timeDay": 890,
-    "timeWeek": 964,
-    "timeMonth": 966,
+    "timeDay": 847,
+    "timeWeek": 966,
+    "timeMonth": 965,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2022-06-01": 53,
+      "2022-06-01": 45,
       "2022-05-20": 15,
       "2022-05-17": 20,
       "2022-05-13": 25,
@@ -54,7 +54,7 @@
       "2022-01-21": 126,
       "2022-01-20": 174,
       "2022-01-19": 113,
-      "2022-01-18": 4
+      "2022-01-18": 28
     }
   }
 ]
