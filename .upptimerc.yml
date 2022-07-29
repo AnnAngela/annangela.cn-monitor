@@ -18,7 +18,7 @@ status-website:
   introMessage: "Generated from [GitHub repository upptime/upptime](https://github.com/upptime/upptime).<br>No server required — just GitHub Actions, Issues, and Pages."
   navbar:
     - title: Status
-      href: /
+      href: /annangela.cn-monitor
 
 assignees:
   - AnnAngela
