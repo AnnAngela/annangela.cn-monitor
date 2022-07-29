@@ -8,6 +8,7 @@ sites:
 
 status-website:
   # cname: status.annangela.cn
+  baseUrl: /annangela.cn-monitor
   icon: https://static.annangela.cn/favicon.ico
   logoUrl: https://static.annangela.cn/icon.jpg
   theme: light
