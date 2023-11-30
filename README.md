@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.annangela.cn)
+[**Visit our status website →**](https://annangela.github.io/annangela.cn-monitor/)
 
 ## 📄 License
 
